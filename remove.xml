@@ -2,7 +2,6 @@
 <manifest>
   <remove-project path="device/google/atv" />
   <remove-project path="device/google/contexthub" />
-  <remove-project path="device/google/vrservices" />
   <remove-project path="device/google_car" />
   <remove-project path="prebuilts/android-emulator" />
 </manifest>
